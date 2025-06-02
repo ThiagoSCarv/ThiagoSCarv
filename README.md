@@ -1,6 +1,6 @@
-# \uf489 Thiago Soares
+# Thiago Soares
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Back-end`**
 
 Me chamo Thiago Soares, tenho 24 anos e sou natural de Goiás. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCGO.
 
